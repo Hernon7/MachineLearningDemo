@@ -8,4 +8,6 @@ SMOTE is an over-sampling method. What it does is, it creates synthetic (not dup
 Hence making the minority class equal to the majority class. 
 SMOTE does this by selecting similar records and altering that record one column at a time by a random amount within the difference to the neighbouring records.
 
-### Time Series 
+### Time Series Project
+
+Predit a seasonal data of water level of Three Gorges. 
